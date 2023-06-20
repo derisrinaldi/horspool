@@ -1,0 +1,19 @@
+{
+    "name": "rinaldi/horspool",
+    "description": "algoritm match string horspool",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rinaldi\\Horspool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "derisrinaldi0",
+            "email": "derisrinaldi0@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
