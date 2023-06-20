@@ -3,7 +3,9 @@ algoritm match string horspool
 
 
 ## install
-```composer require rinaldi/horspool```
+```composer
+composer require rinaldi/horspool
+```
 
 ## Excample
 ```php
