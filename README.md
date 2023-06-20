@@ -7,7 +7,7 @@ algoritm match string horspool
 composer require rinaldi/horspool
 ```
 
-## Excample
+## Example
 ```php
 require 'vendor/autoload.php';
 use Rinaldi\Horspool\Horspool;
