@@ -14,6 +14,7 @@
             "email": "derisrinaldi0@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {},
+    "prefer-stable": true
 }
